@@ -37,3 +37,64 @@
     border-radius: 10px;
     border: none;
 }
+
+/* why-web */
+/* .why-web{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.two-vox{
+    display: flex;
+    justify-content: center;
+    
+}
+.why-title{
+    font-size: 24px;
+    margin-top: 20px;
+
+}
+.why-img{
+    width: 274px;
+} */
+
+.why-dev{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 296px;
+    padding-right: 296px;
+    text-align: center;
+}
+
+.why-content{
+    display: flex;
+    /* padding-left: 296px;
+    padding-right: 296px; */
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.why-description{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.why-btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.wwd{
+    background-color: rgba(13, 19, 33, 0.02);
+}
+
+.my-i{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 296px;
+    padding-right: 296px;
+    padding-bottom: 50px;
+}
