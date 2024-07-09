@@ -98,3 +98,35 @@
     padding-right: 296px;
     padding-bottom: 50px;
 }
+
+.video{
+    text-align: center;
+    width: 1076px;
+    padding-bottom: 20px;
+}
+
+.target-container{
+    display: flex;
+    gap: 30px;
+    padding-left: 221px;
+    padding-right: 221px;
+}
+
+.target-learn{
+    color: black;
+
+}
+
+.taget{
+    padding: 30px;
+    margin-bottom: 50px;
+}
+.a{
+    background-color: rgba(255, 76, 30, 0.05);
+}
+.b{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.c{
+    background-color: rgba(255, 223, 0, 0.05);
+}
