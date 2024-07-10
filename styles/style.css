@@ -130,3 +130,42 @@
 .c{
     background-color: rgba(255, 223, 0, 0.05);
 }
+
+.support-container{
+    height: 313px;
+    background-image: url('../assets/handshake.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.support-content{
+    text-align: center;
+    padding-top: 50px;
+}
+.input{
+    width: 548px;
+    height: 57px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    place-
+}
+
+.submit-btn{
+    width: 120px;
+    height: 57px;
+    background: rgb(255, 255, 255);
+    padding: 17px 20px 17px 20px;
+    border-radius: 8px;
+    border-color: none;
+}
+
+.footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
