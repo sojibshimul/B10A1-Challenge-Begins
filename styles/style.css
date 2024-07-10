@@ -151,7 +151,6 @@
     background: rgb(255, 255, 255);
     box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.15);
-    place-
 }
 
 .submit-btn{
@@ -167,5 +166,10 @@
     margin-top: 50px;
     display: flex;
     justify-content: space-between;
-    
+}
+.footer-title{
+    color: aliceblue;
+}
+.footer-description{
+    color: aliceblue;
 }
